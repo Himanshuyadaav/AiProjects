@@ -1,1 +1,2 @@
 # AiProjects
+install payaudio
